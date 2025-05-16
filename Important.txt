@@ -5,5 +5,6 @@
    - Windows: myenv\Scripts\activate
 4. Install dependencies:
    pip install -r requirements.txt
-5. Run the project:
+5. install library face_recognation
+6. Run the project:
    python app.py
